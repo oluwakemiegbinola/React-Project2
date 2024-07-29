@@ -1,2 +1,2 @@
 # React-Project2
-Financial Analysis
+Financial Analysis Using Functional Programming.
